@@ -3,17 +3,14 @@ import java.util.*;
 public class Linear {
     //循序搜尋
 
-    public static int LinearSearch(int[] list,int item)
-    {
-        for(int i = 0 ; i < list.length;i++)
-        {
+    public static int LinearSearch(int[] list,int item){
+        for(int i = 0 ; i < list.length;i++){
             if(list[i]==item)
-                return i;//找到時回傳位置
+            return i;//找到時回傳位置
         }
         return -1;//找不到時
     }
-    public static void main(String args[])
-    {
+    public static void main(String args[]){
         //輸入物件
         Scanner in = new Scanner(System.in);
 
