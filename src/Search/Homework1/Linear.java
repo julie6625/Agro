@@ -1,4 +1,4 @@
-package Search;
+package Search.Homework1;
 import java.util.*;
 public class Linear {
     //循序搜尋

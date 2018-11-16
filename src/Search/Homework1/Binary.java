@@ -1,4 +1,4 @@
-package Search;
+package Search.Homework1;
 import java.util.*;
 public class Binary {
     //二元搜尋,傳入的數序需先排序,由小至大

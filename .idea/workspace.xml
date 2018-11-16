@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eab36b98-7ed5-4b1e-a617-6e517325ec46" name="Default Changelist" comment="" />
+    <list default="true" id="eab36b98-7ed5-4b1e-a617-6e517325ec46" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Search/Homework2/FactorialRecursive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Search/Homework2/FibonacciNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Search/Homework2/GCD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agro/Search/Binary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agro/Search/ExchangeSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agro/Search/Linear.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agro/Search/Matrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agro/Search/SelectionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agro/Search/factorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Search/Binary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Search/Homework1/Binary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Search/ExchangeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Search/Homework1/ExchangeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Search/Linear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Search/Homework1/Linear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Search/Matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Search/Homework1/Matrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Search/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Search/Homework1/SelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Search/factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Search/Homework1/factorial.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,30 +30,34 @@
     <session id="-13407376">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="706" />
+          <entry key="JAVA" value="1689" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="7" />
+          <entry key="class" value="2" />
+          <entry key="java" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="7" />
+          <entry key="CLASS" value="2" />
+          <entry key="JAVA" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="706" />
+          <entry key="java" value="1689" />
         </counts>
       </usages-collector>
     </session>
@@ -45,57 +66,33 @@
     <favorites_list name="Agro" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Search/Linear.java">
+        <entry file="file://$PROJECT_DIR$/src/Search/Homework2/FactorialRecursive.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+            <state relative-caret-position="720">
+              <caret line="30" column="32" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Search/Binary.java">
+        <entry file="file://$PROJECT_DIR$/src/Search/Homework2/GCD.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="864">
-              <caret line="36" column="48" lean-forward="true" selection-start-line="36" selection-start-column="48" selection-end-line="36" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Search/SelectionSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="19" column="50" lean-forward="true" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Search/ExchangeSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="552">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Search/Matrix.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="295">
-              <caret line="33" column="35" lean-forward="true" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="35" />
+            <state relative-caret-position="391">
+              <caret line="24" column="46" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Search/factorial.java">
+        <entry file="file://$PROJECT_DIR$/src/Search/Homework2/FibonacciNumbers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="264">
+              <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -121,6 +118,10 @@
         <option value="$PROJECT_DIR$/src/Search/Matrix.java" />
         <option value="$PROJECT_DIR$/src/Search/Binary.java" />
         <option value="$PROJECT_DIR$/src/Search/Linear.java" />
+        <option value="$PROJECT_DIR$/src/Search/Homework2/Factorial.java" />
+        <option value="$PROJECT_DIR$/src/Search/Homework2/FibonacciNumbers.java" />
+        <option value="$PROJECT_DIR$/src/Search/Homework2/GCD.java" />
+        <option value="$PROJECT_DIR$/src/Search/Homework2/FactorialRecursive.java" />
       </list>
     </option>
   </component>
@@ -202,12 +203,15 @@
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -226,11 +230,24 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Search" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Agro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Agro" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Search" type="462c0819:PsiDirectoryNode" />
+              <item name="Homework1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Agro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Agro" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Search" type="462c0819:PsiDirectoryNode" />
+              <item name="Homework2" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -238,7 +255,12 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Search.Homework1" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -252,56 +274,56 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.factorial">
-    <configuration name="Binary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Search.Binary" />
+  <component name="RunManager" selected="Application.FibonacciNumbers">
+    <configuration name="FactorialRecursive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Search.Homework2.FactorialRecursive" />
       <module name="Agro" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExchangeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Search.ExchangeSort" />
+    <configuration name="FibonacciNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Search.Homework2.FibonacciNumbers" />
+      <module name="Agro" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GCD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Search.Homework2.GCD" />
       <module name="Agro" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Search.Matrix" />
-      <module name="Agro" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Search.SelectionSort" />
+      <option name="MAIN_CLASS_NAME" value="Search.Homework1.Matrix" />
       <module name="Agro" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Search.factorial" />
+      <option name="MAIN_CLASS_NAME" value="Search.Homework1.factorial" />
       <module name="Agro" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Binary" />
-      <item itemvalue="Application.SelectionSort" />
-      <item itemvalue="Application.ExchangeSort" />
       <item itemvalue="Application.Matrix" />
       <item itemvalue="Application.factorial" />
+      <item itemvalue="Application.FactorialRecursive" />
+      <item itemvalue="Application.GCD" />
+      <item itemvalue="Application.FibonacciNumbers" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FibonacciNumbers" />
+        <item itemvalue="Application.GCD" />
+        <item itemvalue="Application.FactorialRecursive" />
         <item itemvalue="Application.factorial" />
         <item itemvalue="Application.Matrix" />
-        <item itemvalue="Application.ExchangeSort" />
-        <item itemvalue="Application.SelectionSort" />
-        <item itemvalue="Application.Binary" />
       </list>
     </recent_temporary>
   </component>
@@ -328,7 +350,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="Favorites" order="1" sideWeight="0.5005429" side_tool="true" weight="0.16174921" />
@@ -336,14 +359,14 @@
       <window_info id="Structure" order="3" sideWeight="0.5005429" side_tool="true" weight="0.16174921" />
       <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.329718" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" weight="0.32899022" />
-      <window_info anchor="bottom" id="Messages" order="3" weight="0.32899022" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" weight="0.32853025" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.32853025" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
-      <window_info anchor="bottom" x="922" y="265" width="714" height="475" id="Run" order="9" type="FLOATING" weight="0.30911064" />
+      <window_info active="true" anchor="bottom" x="1116" y="232" width="714" height="475" id="Run" order="9" type="FLOATING" visible="true" weight="0.30911064" />
       <window_info anchor="bottom" id="TODO" order="10" weight="0.32899022" />
       <window_info anchor="right" id="Palette&#9;" order="0" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
@@ -355,45 +378,87 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Search/Linear.java">
+    <entry file="file://$PROJECT_DIR$/src/Search/Homework1/Linear.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="528">
-          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Search/Binary.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="864">
-          <caret line="36" column="48" lean-forward="true" selection-start-line="36" selection-start-column="48" selection-end-line="36" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Search/SelectionSort.java">
+    <entry file="file://$PROJECT_DIR$/src/Search/Homework1/SelectionSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
-          <caret line="19" column="50" lean-forward="true" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
+          <caret line="19" column="50" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Search/ExchangeSort.java">
+    <entry file="file://$PROJECT_DIR$/src/Search/Homework1/ExchangeSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="552">
           <caret line="23" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Search/Matrix.java">
+    <entry file="file://$PROJECT_DIR$/src/Search/Homework1/Matrix.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="33" column="35" lean-forward="true" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="35" />
+        <state relative-caret-position="792">
+          <caret line="33" column="35" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Search/factorial.java">
+    <entry file="file://$PROJECT_DIR$/out/production/Agro/Search/Binary.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="-360">
+          <folding>
+            <element signature="e#0#1274#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/Agro/Search/Matrix.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#1509#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Search/Homework1/factorial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Search/Homework1/Binary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="36" column="48" selection-start-line="36" selection-start-column="48" selection-end-line="36" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Search/Homework2/GCD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="24" column="46" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Search/Homework2/FactorialRecursive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="30" column="32" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Search/Homework2/FibonacciNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

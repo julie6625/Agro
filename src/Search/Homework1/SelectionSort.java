@@ -1,4 +1,4 @@
-package Search;
+package Search.Homework1;
 
 public class SelectionSort {
     public static void main(String[] args) {
