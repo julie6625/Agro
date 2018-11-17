@@ -28,7 +28,7 @@ public class FactorialRecursive{
         System.out.println("\n\n"+k+" 的階乘 = "+ total);
     }
 
-    static long fac(long n){//遞迴
+    public static long fac(long n){//遞迴
 
 
         if (n == 0) {
