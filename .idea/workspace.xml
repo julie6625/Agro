@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eab36b98-7ed5-4b1e-a617-6e517325ec46" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Search/Homework2/RandomSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Search/Homework2/Subset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Search/Homework3/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Search/Homework3/HeapSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Search/Homework3/QuickSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Search/Homework2/FactorialRecursive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Search/Homework2/FactorialRecursive.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,131 +15,34 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-13407376">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="6" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.6" value="3" />
-          <entry key="project.open.time.7" value="2" />
-          <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="8" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.vcs.git.usages" />
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="2696" />
-          <entry key="PLAIN_TEXT" value="18" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="class" value="2" />
-          <entry key="iml" value="1" />
-          <entry key="java" value="22" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="CLASS" value="2" />
-          <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="22" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="2696" />
-          <entry key="txt" value="18" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FavoritesManager">
     <favorites_list name="Agro" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Search/Homework2/FactorialRecursive.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="25" column="30" lean-forward="true" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Search/Homework2/GCD.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="15" column="39" lean-forward="true" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Search/Homework2/FibonacciNumbers.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Search/Homework2/combination.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="912">
-              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Search/Homework2/Ackermann.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="439">
-              <caret line="35" column="44" lean-forward="true" selection-start-line="35" selection-start-column="44" selection-end-line="35" selection-end-column="44" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Search/Homework2/RandomSort.java">
+        <entry file="file://$PROJECT_DIR$/src/Search/Homework3/BubbleSort.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="408">
-              <caret line="17" column="44" lean-forward="true" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Search/Homework2/Subset.java">
+        <entry file="file://$PROJECT_DIR$/src/Search/Homework3/HeapSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="487">
-              <caret line="47" column="35" lean-forward="true" selection-start-line="47" selection-start-column="35" selection-end-line="47" selection-end-column="35" />
-              <folding>
-                <element signature="e#1583#1603#0" expanded="true" />
-                <element signature="e#1725#1733#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="440">
+              <caret line="62" column="41" lean-forward="true" selection-start-line="70" selection-start-column="8" selection-end-line="70" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Search/Homework2/MInMax.java">
+        <entry file="file://$PROJECT_DIR$/src/Search/Homework3/QuickSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="576">
-              <caret line="24" column="35" lean-forward="true" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="35" />
+            <state relative-caret-position="464">
+              <caret line="58" column="40" lean-forward="true" selection-start-line="66" selection-start-column="9" selection-end-line="66" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -175,6 +79,9 @@
         <option value="$PROJECT_DIR$/src/Search/Homework2/GCD.java" />
         <option value="$PROJECT_DIR$/src/Search/Homework2/combination.java" />
         <option value="$PROJECT_DIR$/src/Search/Homework2/RandomSort.java" />
+        <option value="$PROJECT_DIR$/src/Search/Homework3/BubbleSort.java" />
+        <option value="$PROJECT_DIR$/src/Search/Homework3/QuickSort.java" />
+        <option value="$PROJECT_DIR$/src/Search/Homework3/HeapSort.java" />
       </list>
     </option>
   </component>
@@ -264,7 +171,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -288,19 +194,20 @@
               <item name="Agro" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Search" type="462c0819:PsiDirectoryNode" />
-              <item name="Homework1" type="462c0819:PsiDirectoryNode" />
+              <item name="Homework2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Agro" type="b2602c69:ProjectViewProjectNode" />
               <item name="Agro" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Search" type="462c0819:PsiDirectoryNode" />
-              <item name="Homework2" type="462c0819:PsiDirectoryNode" />
+              <item name="Homework3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -327,9 +234,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MInMax">
-    <configuration name="Ackermann" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Search.Homework2.Ackermann" />
+  <component name="RunManager" selected="Application.QuickSort">
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Search.Homework3.BubbleSort" />
+      <module name="Agro" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HeapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Search.Homework3.HeapSort" />
       <module name="Agro" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -342,8 +256,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RandomSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Search.Homework2.RandomSort" />
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Search.Homework3.QuickSort" />
       <module name="Agro" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -356,27 +270,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="combination" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Search.Homework2.combination" />
-      <module name="Agro" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.combination" />
-      <item itemvalue="Application.Ackermann" />
-      <item itemvalue="Application.RandomSort" />
       <item itemvalue="Application.Subset" />
       <item itemvalue="Application.MInMax" />
+      <item itemvalue="Application.BubbleSort" />
+      <item itemvalue="Application.HeapSort" />
+      <item itemvalue="Application.QuickSort" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QuickSort" />
+        <item itemvalue="Application.HeapSort" />
+        <item itemvalue="Application.BubbleSort" />
         <item itemvalue="Application.MInMax" />
         <item itemvalue="Application.Subset" />
-        <item itemvalue="Application.RandomSort" />
-        <item itemvalue="Application.Ackermann" />
-        <item itemvalue="Application.combination" />
       </list>
     </recent_temporary>
   </component>
@@ -412,7 +319,14 @@
       <option name="project" value="LOCAL" />
       <updated>1542733310899</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="11.25 homework">
+      <created>1543133095185</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1543133095185</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView">
@@ -425,11 +339,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1176" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="Favorites" order="1" sideWeight="0.5005429" side_tool="true" weight="0.16174921" />
-      <window_info content_ui="combo" id="Project" order="2" sideWeight="0.49945712" visible="true" weight="0.113804005" />
+      <window_info content_ui="combo" id="Project" order="2" sideWeight="0.49945712" visible="true" weight="0.12486828" />
       <window_info id="Structure" order="3" sideWeight="0.5005429" side_tool="true" weight="0.16174921" />
       <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.329718" />
@@ -440,16 +354,13 @@
       <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
-      <window_info active="true" anchor="bottom" x="884" y="463" width="714" height="475" id="Run" order="9" type="FLOATING" visible="true" weight="0.30911064" />
+      <window_info anchor="bottom" x="890" y="447" width="714" height="475" id="Run" order="9" type="FLOATING" weight="0.30911064" />
       <window_info anchor="bottom" id="TODO" order="10" weight="0.32899022" />
       <window_info anchor="right" id="Palette&#9;" order="0" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
     </layout>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
@@ -458,7 +369,8 @@
     <MESSAGE value="11.17 at home" />
     <MESSAGE value="11.18 at home" />
     <MESSAGE value="11.21 at home" />
-    <option name="LAST_COMMIT_MESSAGE" value="11.21 at home" />
+    <MESSAGE value="11.25 homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="11.25 homework" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Search/Homework1/SelectionSort.java">
@@ -501,13 +413,7 @@
     <entry file="file://$PROJECT_DIR$/Agro.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Search/Homework2/Nlevel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Search/Homework2/Nlevel.java" />
     <entry file="file://$PROJECT_DIR$/src/Search/Homework1/Linear.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
@@ -518,35 +424,28 @@
     <entry file="file://$PROJECT_DIR$/src/Search/Homework2/FactorialRecursive.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
-          <caret line="25" column="30" lean-forward="true" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+          <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Search/Homework2/GCD.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
-          <caret line="15" column="39" lean-forward="true" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+          <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Search/Homework2/FibonacciNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Search/Homework2/combination.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="912">
-          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Search/Homework2/Ackermann.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="439">
-          <caret line="35" column="44" lean-forward="true" selection-start-line="35" selection-start-column="44" selection-end-line="35" selection-end-column="44" />
+        <state relative-caret-position="816">
+          <caret line="35" column="44" selection-start-line="35" selection-start-column="44" selection-end-line="35" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -555,8 +454,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Search/Homework2/RandomSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="17" column="44" lean-forward="true" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
+        <state relative-caret-position="336">
+          <caret line="17" column="44" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -565,19 +464,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Search/Homework2/Subset.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="487">
-          <caret line="47" column="35" lean-forward="true" selection-start-line="47" selection-start-column="35" selection-end-line="47" selection-end-column="35" />
-          <folding>
-            <element signature="e#1583#1603#0" expanded="true" />
-            <element signature="e#1725#1733#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="824">
+          <caret line="47" column="35" selection-start-line="47" selection-start-column="35" selection-end-line="47" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Search/Homework2/MInMax.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="24" column="35" lean-forward="true" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="35" />
+        <state relative-caret-position="744">
+          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Search/Homework2/combination.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="15" column="53" lean-forward="true" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Search/Homework3/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Search/Homework3/HeapSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="62" column="41" lean-forward="true" selection-start-line="70" selection-start-column="8" selection-end-line="70" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Search/Homework3/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="58" column="40" lean-forward="true" selection-start-line="66" selection-start-column="9" selection-end-line="66" selection-end-column="24" />
         </state>
       </provider>
     </entry>
